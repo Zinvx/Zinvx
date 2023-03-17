@@ -1,4 +1,4 @@
-### Prazer, me chamo Zion Gabriel
+### Prazer, me chamo Zion Gabriel, entusiasta estudante de programação.
 
 - 🔭 Trabalho com front-end
 - 🌱 Atualmente estudando React.js
