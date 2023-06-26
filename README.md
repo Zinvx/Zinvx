@@ -1,7 +1,6 @@
 ### Prazer, me chamo Zion Gabriel.
 
-- 🔭 Programo front-end
-- 🌱 Atualmente estudando React.js
+- 🌱 Atualmente estudando Python
 - 📫 Contato: santoszion4@gmail.com
 
 <div style="display: inline_block"><br>
