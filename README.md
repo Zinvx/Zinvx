@@ -1,6 +1,5 @@
 ### Prazer, me chamo Zion Gabriel.
 
-- 🌱 Atualmente estudando Python
 - 📫 Contato: santoszion4@gmail.com
 
 <div style="display: inline_block"><br>
